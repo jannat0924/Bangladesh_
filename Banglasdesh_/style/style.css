@@ -3,13 +3,20 @@
   font-weight: 700;
   font-style: normal;
 }
+main{
+   background-color:  rgba(145, 138, 138, 0.15);
+  background-size: cover;
+  
+   
+
+}
 *{
-    margin: 7px 18px 7px 18px;
-    
+    padding: 0;
+   margin-right: 20px;
+   margin-left: 20px;
 }
-header main{
-    background-color: rgba(196, 191, 191, 0.12);;
-}
+
+
 nav{
     display: flex;
    justify-content: space-between;
@@ -62,7 +69,7 @@ line-height: 18px;
 text-align: center;
 border-radius: 8px;
 background: rgb(0, 106, 80);
-padding: 10px 20px 10px 12px;
+padding: 10px 20px 10px 20px;
 border: none;
 margin-top: 14px;
 }
@@ -291,10 +298,46 @@ text-align: left;
 margin-top: 12px;
 margin-bottom: 12px;
 }
+.C{
+    text-align: center;
+}
+.M{
+    text-align: center;
+   margin: 25px 120px 25px 120px;
+}
+.taka{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tk{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+padding: 40px;
+
+}
+.tk:hover{
+    background: rgb(198, 228, 214);
+}
+.input-tk{
+    box-sizing: border-box;
+border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(255, 255, 255);
+padding: 16px 36px;
+text-align: center;
+border: none;
+width: 800px;
+margin-left: 200px;
+margin-right: 200px;
+margin-bottom: 0;
+}
 .subscribe{
     border-radius: 24px;
 background: rgb(198, 228, 214);
-margin-bottom: 70px;
+margin-top: 50px ;
+margin-bottom: 80px;
 }
 .sub{
     text-align: center;
