@@ -104,6 +104,131 @@ line-height: 20px;
 letter-spacing: 0%;
 text-align: left;
 }
-.p-vission{
-    
+.p-vision{
+color: rgba(14, 14, 14, 0.7);
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 15px;
+}
+.vission{
+    display: flex;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 30px;
+}
+.sub-v{
+color: rgba(14, 14, 14, 0.8);
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 10px;
+margin-bottom: 8px;
+}
+.v-des{
+color: rgba(14, 14, 14, 0.7);
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+}
+.each-vission-B{
+box-sizing: border-box;
+border-radius: 16px;
+background: rgba(84, 144, 245, 0.2);
+}
+.each-vission-G{
+box-sizing: border-box;
+border-radius: 16px;
+background: rgb(198, 228, 214);
+}
+.each-vission-Y{
+box-sizing: border-box;
+border-radius: 16px;
+background: rgb(247, 235, 207);
+}
+.v-btn-B{
+    color: rgb(255, 255, 255);
+font-size: 12px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: center;
+border: none;
+    border-radius: 8px;
+background: rgb(84, 144, 245);
+padding: 7px 16px 7px 16px;
+margin-bottom: 26px ;
+margin-top: 22px;
+}
+.v-btn-G{
+    color: rgb(255, 255, 255);
+font-size: 12px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: center;
+border: none;
+    border-radius: 8px;
+background: rgb(9, 161, 92);
+padding: 7px 16px 7px 16px;
+margin-bottom: 26px ;
+margin-top: 22px;
+}
+.v-btn-Y{
+    color: rgb(255, 255, 255);
+font-size: 12px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: center;
+border: none;
+    border-radius: 8px;
+background: rgb(255, 194, 57);
+padding: 7px 16px 7px 16px;
+margin-bottom: 26px ;
+margin-top: 22px;
+}
+.yonus{
+ box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+}
+.y-details{
+    margin: 35px 11px;
+}
+.yonus img{
+    position: absolute;
+    margin-top: 10px;
+ 
+
+}
+.y-title{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size:18px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 10px;
+margin-bottom: 0;
+}
+.y-des{
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+.T{
+    margin-top: 30px;
 }
