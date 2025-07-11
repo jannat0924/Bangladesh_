@@ -7,6 +7,9 @@
     margin: 7px 18px 7px 18px;
     
 }
+header main{
+    background-color: rgba(196, 191, 191, 0.12);;
+}
 nav{
     display: flex;
    justify-content: space-between;
@@ -231,4 +234,133 @@ text-align: left;
 }
 .T{
     margin-top: 30px;
+}
+.opinion{
+    border-radius: 16px;
+background: #ffffff;
+
+}
+.question{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(198, 228, 214);
+}
+
+.q{
+    color: rgb(14, 14, 14);
+font-size: 17px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0%;
+
+}
+.white{
+    border-radius: 18px;
+background: rgb(255, 255, 255);
+padding: 30px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.h-s{
+color: rgba(14, 14, 14, 0.8);
+font-size: 28px;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+.satellite{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.s-img{
+    height: 300px;
+    width: 400px;
+   border-radius: 30px;
+}
+.s-des{
+color: rgba(14, 14, 14, 0.7);
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 12px;
+margin-bottom: 12px;
+}
+.subscribe{
+    border-radius: 24px;
+background: rgb(198, 228, 214);
+margin-bottom: 70px;
+}
+.sub{
+    text-align: center;
+    padding: 80px 100px;
+}
+.p-sub{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0%;
+
+margin-top: 18px;
+margin-bottom: 18px;
+width: 450px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+.input{
+    display: flex;
+    justify-content: center;
+   
+}
+.email{
+    text-align: left;
+    border-radius: 8px 0px 0px 8px;
+background: rgb(255, 255, 255);
+padding: 14px 30px 14px 30px;
+border: none;
+width: 500px;
+margin-right: 0;
+}
+.i-btn{
+    border-radius: 0px 8px 8px 0px;
+background: rgb(0, 106, 80);
+text-align: center;
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 14px;
+font-weight: 600;
+line-height: 18px;
+letter-spacing: 0%;
+margin-left: 0;
+width: 120px;
+border: none;
+}
+.B{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 33px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.icon img{
+    margin-left: 0;
+    margin-right: 0;
+}
+hr{
+    border: 1px solid rgba(14, 14, 14, 0.1);
+    margin-left: 120px;
+    margin-right: 120px;
 }
